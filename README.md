@@ -8,3 +8,6 @@ O projeto BTC_AI é uma aplicação de aprendizado de máquina focada na anális
 
 Este projeto envolve a coleta, processamento e análise de dados históricos do Bitcoin para a construção de um modelo preditivo. Ele explora técnicas de aprendizado de máquina, especialmente voltadas para séries temporais, com o objetivo de prever o preço futuro do Bitcoin com base em dados históricos e indicadores técnicos.
 
+## Previsão:
+
+![grafico]('image.png')
