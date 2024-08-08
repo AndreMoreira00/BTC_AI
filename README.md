@@ -10,4 +10,8 @@ Este projeto envolve a coleta, processamento e análise de dados históricos do 
 
 ## Previsão:
 
-![image]('https://github.com/AndreMoreira00/BTC_AI/blob/main/image.png')
+![https://github.com/AndreMoreira00/BTC_AI/blob/main/image.png](https://github.com/AndreMoreira00/BTC_AI/blob/main/image.png)
+
+* Bolas pretas (grafico original)
+  
+-- Traços azuis (grafico de previsão)
