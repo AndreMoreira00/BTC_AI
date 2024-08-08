@@ -10,4 +10,4 @@ Este projeto envolve a coleta, processamento e análise de dados históricos do 
 
 ## Previsão:
 
-![grafico]('image.png')
+![image]('https://github.com/AndreMoreira00/BTC_AI/blob/main/image.png')
